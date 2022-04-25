@@ -5,14 +5,14 @@
       "firstname":"Jonathan",
       "surname":"Bardwell",
       "PlayerDesc":"Into VR development and creating games",
-      "MaxGold":"800",
+      "MaxGold":"1000",
       "Team":"Red"
     },
     {"USerId":"1",
       "firstname":"Terry",
       "surname":"Smith",
       "PlayerDesc":"Likes video games and loves spending money on hotdogs and mustard",
-      "MaxGold":"23",
+      "MaxGold":"500",
       "Team":"Blue"
       
     },
